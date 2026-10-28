@@ -1,0 +1,5 @@
+Flask
+Authlib
+cryptography
+numpy
+opencv-python
